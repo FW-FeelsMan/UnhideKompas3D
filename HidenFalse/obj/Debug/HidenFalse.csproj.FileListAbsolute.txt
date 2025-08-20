@@ -1,0 +1,12 @@
+D:\Unity\HidenFalse\HidenFalse\bin\Debug\HidenFalse.exe.config
+D:\Unity\HidenFalse\HidenFalse\bin\Debug\HidenFalse.exe
+D:\Unity\HidenFalse\HidenFalse\bin\Debug\HidenFalse.pdb
+D:\Unity\HidenFalse\HidenFalse\obj\Debug\HidenFalse.csprojAssemblyReference.cache
+D:\Unity\HidenFalse\HidenFalse\obj\Debug\HidenFalse.csproj.CoreCompileInputs.cache
+D:\Unity\HidenFalse\HidenFalse\obj\Debug\HidenFalse.exe
+D:\Unity\HidenFalse\HidenFalse\obj\Debug\HidenFalse.pdb
+D:\Unity\HidenFalse\HidenFalse\bin\Debug\Kompas6API3D5COM.dll
+D:\Unity\HidenFalse\HidenFalse\bin\Debug\Kompas6Constants.dll
+D:\Unity\HidenFalse\HidenFalse\bin\Debug\Kompas6Constants3D.dll
+D:\Unity\HidenFalse\HidenFalse\bin\Debug\KompasAPI7.dll
+D:\Unity\HidenFalse\HidenFalse\obj\Debug\HidenFalse.csproj.CopyComplete
